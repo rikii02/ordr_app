@@ -1,0 +1,12 @@
+{
+    "name": "Ricard Latorre",
+    "name_id": "@ricard_latorre",
+    "mainImageUrl": "assets/images/ricard.jpg",
+    "lastOrders": "La Pizza",
+    "reviews": [
+      {"oplace": "@la_pizza", "rating": 4, "comment": "Good food!"}],
+    "followers": "50",
+    "following": "50",
+    "ordrs": "1"
+  }
+  

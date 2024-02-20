@@ -1,0 +1,13 @@
+{
+    "name": "Miley Cyrus",
+    "name_id": "@miley_cyrus",
+    "mainImageUrl": "assets/images/miley.jpg",
+    "status": "not ordering",
+    "lastOrders": "McDonald's",
+    "reviews": [
+      {"oplace": "@mcdonalds", "rating": 4, "comment": "Very good!"}],
+    "followers": "50",
+    "following": "50",
+    "ordrs": "1"
+  }
+  
